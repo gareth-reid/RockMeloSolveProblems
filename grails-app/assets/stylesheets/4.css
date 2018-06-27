@@ -1,0 +1,27 @@
+
+
+.header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+    background-color: #d7191c;
+    color: #ffffff;
+
+}
+.header {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+/*Bootstrap overrides*/
+.progress-bar {
+    background-color: #d7191c !important;
+}
+
+
+.alert-info {
+    color: #d7191c !important;
+    background-color: #a6d96a !important;
+    border-color: #a6d96a !important;
+}

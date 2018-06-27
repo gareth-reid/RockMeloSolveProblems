@@ -1,0 +1,142 @@
+.header {
+     padding-top: 60px;
+     padding-bottom: 60px;
+     font-size: 24px;
+     text-align: left;
+     background-color: #7b3294;
+     color: #ffffff;
+
+ }
+.header {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+/*Bootstrap overrides*/
+.progress-bar {
+    background-color: #7b3294 !important;
+}
+
+
+.alert-info {
+    color: #008837 !important;
+    background-color: #a6dba0 !important;
+    border-color: #a6dba0 !important;
+}
+
+.panel-default > .panel-heading {
+    color: #ffffff !important;
+    background-color: #a6dba0 !important;
+    border-color: #ddd !important;
+}
+
+/*.header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+    background-color: #4dac26;
+    color: #ffffff;
+
+}
+.header {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+*//*Bootstrap overrides*//*
+.progress-bar {
+    background-color: #4dac26 !important;
+}
+
+
+.alert-info {
+    color: #f1b6da !important;
+    background-color: #d01c8b !important;
+    border-color: #d01c8b !important;
+}
+
+.panel-default > .panel-heading {
+    color: #ffffff !important;
+    background-color: #f1b6da !important;
+    border-color: #ddd !important;
+}*/
+
+/*.header {*/
+    /*padding-top: 60px;*/
+    /*padding-bottom: 60px;*/
+    /*font-size: 24px;*/
+    /*text-align: left;*/
+    /*background-color: #2b83ba;*/
+    /*color: #ffffff;*/
+
+/*}*/
+/*.header {*/
+    /*margin-bottom: 40px;*/
+    /*font-size: 20px;*/
+/*}*/
+
+/*Bootstrap overrides*/
+/*.progress-bar {*/
+    /*background-color: #fdae61 !important;*/
+/*}*/
+
+
+/*.alert-info {*/
+    /*color: #2b83ba !important;*/
+    /*background-color: #fdae61 !important;*/
+    /*border-color: #abdda4 !important;*/
+/*}*/
+
+/*.header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+    background-color: #404040;
+    color: #ffffff;
+
+}
+.header {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+*//*Bootstrap overrides*//*
+.progress-bar {
+    background-color: #b2182b !important;
+}
+
+
+.alert-info {
+    color: #ffffff !important;
+    background-color: #404040 !important;
+    border-color: #404040 !important;
+}*/
+
+
+/*.header {*/
+    /*padding-top: 60px;*/
+    /*padding-bottom: 60px;*/
+    /*font-size: 24px;*/
+    /*text-align: left;*/
+    /*background-color: #d7191c;*/
+    /*color: #ffffff;*/
+
+/*}*/
+/*.header {*/
+    /*margin-bottom: 40px;*/
+    /*font-size: 20px;*/
+/*}*/
+
+/*Bootstrap overrides*/
+/*.progress-bar {*/
+    /*background-color: #d7191c !important;*/
+/*}*/
+
+
+/*.alert-info {*/
+    /*color: #d7191c !important;*/
+    /*background-color: #a6d96a !important;*/
+    /*border-color: #a6d96a !important;*/
+/*}*/

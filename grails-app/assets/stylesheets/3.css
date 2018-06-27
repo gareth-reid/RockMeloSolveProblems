@@ -1,0 +1,32 @@
+
+.header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+    background-color: #404040;
+    color: #ffffff;
+
+}
+.header {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+/*Bootstrap overrides*/
+.progress-bar {
+    background-color: #b2182b !important;
+}
+
+
+.alert-info {
+    color: #ffffff !important;
+    background-color: #404040 !important;
+    border-color: #404040 !important;
+}
+
+.panel-default > .panel-heading {
+    color: #ffffff !important;
+    background-color: #f4a582 !important;
+    border-color: #ddd !important;
+}
