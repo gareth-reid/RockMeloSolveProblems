@@ -6,7 +6,8 @@ import userFramework.User
 @Entity
 public class UserProblemToSolve {
 
-    public UserProblemToSolve(){
+    static mapping = {
+        dateCreated default: new Date()
     }
 
     static constraints = {
@@ -14,11 +15,6 @@ public class UserProblemToSolve {
 
     User user
     ProblemToSolve problem
-    Answer answer
-
-
-    //static hasMany = [problemsToSolve: ProblemToSolve]
-
-
-
+    Answer userAnswer
+    Date dateCreated
 }

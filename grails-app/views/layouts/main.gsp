@@ -58,12 +58,12 @@
                         Solve a problem
                     </g:link>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <g:link controller="solve" action="index" class="dropdown-item">Class 1</g:link>
+                        <g:link controller="solve" action="index" class="dropdown-item" params="[level: 1]">Class 1</g:link>
                         <div class="dropdown-divider"></div>
 
-                        <g:link controller="solve" action="index" class="dropdown-item">Class 2</g:link>
+                        <g:link controller="solve" action="index" class="dropdown-item" params="[level: 2]">Class 2</g:link>
                         <div class="dropdown-divider"></div>
-                        <g:link controller="solve" action="index" class="dropdown-item">Class 3</g:link>
+                        <g:link controller="solve" action="index" class="dropdown-item" params="[level: 3]">Class 3</g:link>
                         <div class="dropdown-divider"></div>
                     </div>
                 </li>
