@@ -22,6 +22,9 @@ public class SolveController {
     }
 
     def submitAnswer(){
+        def answer = params.get("answer")
+        int id = 1
+        redirect (action: "index")
 
     }
 }

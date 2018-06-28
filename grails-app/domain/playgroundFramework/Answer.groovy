@@ -5,8 +5,6 @@ import userFramework.User
 
 @Entity
 public class Answer {
-
-
     static constraints = {
     }
 
