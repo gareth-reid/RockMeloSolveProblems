@@ -12,7 +12,7 @@ environments {
     development {
         dataSource {
             dialect  = "org.hibernate.dialect.MySQL5InnoDBDialect"
-            dbCreate = 'create-drop'
+            dbCreate = 'update'
             driverClassName = "com.mysql.jdbc.Driver"
             username = 'root'
             password = 'bluesky.123'

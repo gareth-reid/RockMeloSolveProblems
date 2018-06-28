@@ -8,7 +8,6 @@ public class Answer {
     static constraints = {
     }
 
-    UserProblemToSolve problem
     String textResponse
 
 }

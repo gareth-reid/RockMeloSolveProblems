@@ -6,9 +6,15 @@ public class ProblemToSolve {
 
     static constraints = {
         question(nullable: false)
-        answer(nullable: false)
+        correctAnswer(nullable: false)
     }
 
+    static mapping = {
+        question sqlType: 'longText'
+    }
+
+    int level
     String question
-    Answer answer
+    Answer correctAnswer
+    Date dateCreated
 }
